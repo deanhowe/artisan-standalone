@@ -1,5 +1,5 @@
 {
-    "name": "matthewbdaly/artisan-standalone",
+    "name": "deanhowe/artisan-standalone",
     "description": "Allows you to use Artisan outside of a Laravel install",
     "type": "library",
     "keywords": ["laravel","lumen"],
